@@ -1,7 +1,7 @@
 # Maintainer: Joe User <joe.user@example.com>
 pkgname=wlroots0.17-westmere
 pkgver=0.17.4
-pkgrel=13
+pkgrel=14
 pkgdesc="wlroots with westmere patches"
 arch=('x86_64')
 url="https://swaywm.org/"
